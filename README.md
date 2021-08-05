@@ -22,5 +22,5 @@ This project is a clustering problem. The data collected is over a chain of 100 
   - B
   - C
   
-
+I used Principal Component Analysis(PCA) feature extraction method to get siginificant features. 
 
